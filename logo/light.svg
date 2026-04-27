@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 36" fill="none">
-  <g transform="translate(2 4)">
-    <rect x="0" y="0" width="3" height="28" rx="1" fill="#0A0A0F"/>
-    <rect x="0" y="25" width="16" height="3" rx="1" fill="#0A0A0F"/>
-    <rect x="6" y="14" width="6" height="3" rx="1" fill="#FF3D8E"/>
-  </g>
-  <text x="32" y="24" font-family="Inter, system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" letter-spacing="-0.01em" fill="#0A0A0F">Lighter MCP</text>
-</svg>

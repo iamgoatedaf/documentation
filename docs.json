@@ -4,14 +4,14 @@
   "name": "Lighter MCP",
   "description": "Portable Model Context Protocol server for Lighter — wraps the agent kit with safety, audit, and adapters for Cursor, Claude, Codex, and any MCP client.",
   "colors": {
-    "primary": "#FF3D8E",
-    "light": "#FF6FA8",
-    "dark": "#E61E6F"
+    "primary": "#0A0A0F",
+    "light": "#FFFFFF",
+    "dark": "#FFFFFF"
   },
-  "favicon": "/favicon.svg",
+  "favicon": "/favicon.png",
   "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg",
+    "light": "/logo/lighter.png",
+    "dark": "/logo/lighter.png",
     "href": "/"
   },
   "appearance": {
